@@ -15,6 +15,7 @@ author:
   image: ks.png
 ---
 
+xd
 Incorporated provides a great typography, responsive design, author details, semantic markup and more.
 
 You can set customize post covers, and other things directly in the post front matter:
